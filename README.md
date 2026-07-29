@@ -18,3 +18,4 @@ Although the company has generated total sales of $55,774, monthly sales fluctua
 - Made sure data is consistent and clean with respect to data type, data format, and values used
 - Created Pivot tables according to the question asked
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic
+## Dashboard
