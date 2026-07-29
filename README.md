@@ -22,7 +22,7 @@ Although the company has generated total sales of $55,774, monthly sales fluctua
 <img width="322" height="176" alt="Dashboard Office Supplies Sales (Excel)" src="https://github.com/user-attachments/assets/ee308864-8bb3-490b-a608-d82654ecb540" />
 ## Result
 This is result from Office Supplies Sales Analyst
-### Sales Trend Analysis
+1. Sales Trend Analysis
 The monthly sales trend fluctuates throughout the year, with noticeable peaks and declines.
 Insight:
 - Sales performance is not consistent across months.
