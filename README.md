@@ -19,7 +19,7 @@ Although the company has generated total sales of $55,774, monthly sales fluctua
 - Created Pivot tables according to the question asked
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic
 ## Dashboard
-<img width="322" height="176" alt="Dashboard Office Supplies Sales (Excel)" src="https://github.com/user-attachments/assets/ee308864-8bb3-490b-a608-d82654ecb540" />
+<img width="322" height="176" alt="Dashboard Office Supplies Sales (Excel)" src="https://github.com/user-attachments/assets/ee308864-8bb3-490b-a608-d82654ecb540" />.
 ## Result
 
 
