@@ -4,9 +4,8 @@ This project analyzes office supplies sales data to identify sales trends, custo
 Although the company has generated total sales of $55,774, monthly sales fluctuate significantly, making it difficult to maintain stable revenue growth.
 # Questions (KPIs)
 - Why do sales fluctuate each month?
-- Which products contribute the most to sales?
-- Which categories generate the highest revenue?
-- Which cities have the highest sales?
-- Which customer segment contributes the most?
+- List top 10 products have the highest sales?
+- Which categories products generate the highest sales?
+- List top 10 cities have the highest sales?
+- Which segment contributes the most?
 - Which shipping method is most frequently used?
-- How can sales become more stable and continue to grow?
