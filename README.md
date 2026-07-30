@@ -10,9 +10,31 @@ Although the company has generated total sales of $55,774, monthly sales fluctua
 - Which segment contributes the most?
 - Which shipping method is most frequently used?
 ## Tools Used
-- Microsoft Excel
-- Tableau
-- GitHub
+- Microsoft Excel: initial data inspection, calculation, quality checks
+- Pivot Tables: aggregations, summaries, insight
+- Tableau: interactive dashboard, key indicators visualization
+- GitHub: repository management, version control (Git), project documentation (README), and portfolio publishing
+## Dataset
+The dataset used in this project including:
+| Feature                         | Description                                                     |
+| ------------------------------- | --------------------------------------------------------------- |
+| Order ID                        | Unique identifier for each sales transaction.                   |
+| Order Date                      | Date when the order was placed.                                 |
+| Ship Date                       | Date when the order was shipped.                                |
+| Ship Mode                       | Shipping method used for the order.                             |
+| Customer ID                     | Unique identifier for each customer.                            |
+| Customer Name                   | Name of the customer.                                           |
+| Segment                         | Customer segment (e.g., Consumer, Corporate, Home Office).      |
+| Country / City / State / Region | Customer's geographic location.                                 |
+| Product ID                      | Unique identifier for each product.                             |
+| Category                        | Main product category (Office Supplies, Furniture, Technology). |
+| Sub-Category                    | Product subcategory (e.g., Binders, Paper, Storage).            |
+| Product Name                    | Name of the product sold.                                       |
+| Sales                           | Revenue generated from each transaction.                        |
+| Quantity                        | Number of units sold.                                           |
+| Discount                        | Discount applied to the transaction.                            |
+| Profit                          | Profit earned from the transaction.                             |
+
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same
 - Made sure data is consistent and clean with respect to data type, data format, and values used
