@@ -28,7 +28,7 @@ The dataset used in this project including:
 | Country / City / State / Region | Customer's geographic location.                                 |
 | Product ID                      | Unique identifier for each product.                             |
 | Category                        | Main product category (Office Supplies, Furniture, Technology). |
-| Sub-Category                    | Product subcategory (e.g., Binders, Paper, Storage).            |
+| Sub-Category                    | Product subcategory (e.g., Appliances, Art, Binders, Envelopes, Fasteners, Labels, Paper, Storage, Supplies).            |
 | Product Name                    | Name of the product sold.                                       |
 | Sales                           | Revenue generated from each transaction.                        |
 | Quantity                        | Number of units sold.                                           |
