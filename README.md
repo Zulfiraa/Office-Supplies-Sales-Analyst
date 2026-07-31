@@ -50,7 +50,7 @@ This is result from Office Supplies Sales Analyst
 -  **Product Performance**: The Top 10 Products contribute a significant portion of total sales, while many other products generate relatively low sales.
 -  **Segment Analysis**: The Consumer segment generated the highest sales, particularly in 2019, but experienced considerable fluctuations over the following years. In contrast, the Corporate segment demonstrated more stable growth, indicating increasing demand from business customers. Meanwhile, the Home Office segment showed inconsistent performance with significant changes across the observed period.
 - **Shipping Analysis**: Most customers use Standard Class Shipping representing approximately 61% of all customer shipments. This suggests that customers prioritize cost-effective delivery over speed. Therefore, maintaining the reliability and efficiency of Standard Class should remain a priority.
-## Business Recomendation
+## Business Recommendation
 - Implement **sales forecasting** and prepare a **promotional calendar** to maintain consistent demand throughout the year. This strategy can help more stable monthly sales and improved inventory planning.
 - **Promote lower-performing** products through **discounts**, **product bundling**, or **cross-selling**. This approach can encourage customers to purchase a wider range of products, resulting in a more balanced sales distribution and reduced dependence on a few best-selling items.
 - **Expand marketing campaigns** and **distribution** to regions with lower sales potential. By reaching underserved markets, the company can broaden its customer base, increase market penetration, and drive overall revenue growth.
