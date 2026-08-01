@@ -72,6 +72,13 @@ This is result from Office Supplies Sales Analyst
 <p align="center">
 <img width="1127" height="754" alt="Picture2-segment" src="https://github.com/user-attachments/assets/4f9406fa-31ae-4a3c-96f9-7b2a783b3e62" />
 
+### Regional Performance
+- The highest sales were recorded in several states, such as New York, Georgia, and California.
+- Sales were concentrated in major cities such as New York City, Atlanta, and San Francisco, while many other regions contributed comparatively lower sales.
+- The uneven geographic distribution suggests opportunities to expand into underperforming markets.
+<p align="center">
+<img width="1648" height="913" alt="Picture3-map" src="https://github.com/user-attachments/assets/c915ee35-588b-4b55-adcf-1411537a5c36" />
+
 ## Business Recommendation
 - Implement **sales forecasting** and prepare a **promotional calendar** to maintain consistent demand throughout the year. This strategy can help more stable monthly sales and improved inventory planning.
 - **Promote lower-performing** products through **discounts**, **product bundling**, or **cross-selling**. This approach can encourage customers to purchase a wider range of products, resulting in a more balanced sales distribution and reduced dependence on a few best-selling items.
