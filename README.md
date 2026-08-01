@@ -56,7 +56,7 @@ This is result from Office Supplies Sales Analyst
 - Monthly sales fluctuated throughout the year, with several significant peaks and declines, indicating inconsistent customer demand and potential seasonal purchasing patterns.
 - Although the business maintained positive sales performance, the fluctuations suggest opportunities to improve sales stability through better demand forecasting and strategic promotional planning.
 <p align="center">
-<img width="900" height="125" alt="image" src="https://github.com/user-attachments/assets/d28693ca-b5f6-437e-9500-ee80eba01e2a" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/d28693ca-b5f6-437e-9500-ee80eba01e2a" />
 
 ### Product Performance
 
