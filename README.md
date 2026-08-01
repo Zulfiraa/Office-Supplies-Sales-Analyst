@@ -57,7 +57,6 @@ This is result from Office Supplies Sales Analyst
 - Although the business maintained positive sales performance, the fluctuations suggest opportunities to improve sales stability through better demand forecasting and strategic promotional planning.
 <p align="center">
 <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/d28693ca-b5f6-437e-9500-ee80eba01e2a" />
-<img width="1480" height="912" alt="Picture4-city" src="https://github.com/user-attachments/assets/06e7644f-7af9-4ad2-a44c-2d6317bf1efe" />
 
 ### Product Performance
 - Sales were concentrated in a limited number of products, with the Top 10 products contributing the majority of total sales.
@@ -79,6 +78,7 @@ This is result from Office Supplies Sales Analyst
 - The uneven geographic distribution suggests opportunities to expand into underperforming markets.
 <p align="center">
 <img width="1648" height="913" alt="Picture3-map" src="https://github.com/user-attachments/assets/c915ee35-588b-4b55-adcf-1411537a5c36" />
+<img width="1480" height="912" alt="Picture4-city" src="https://github.com/user-attachments/assets/06e7644f-7af9-4ad2-a44c-2d6317bf1efe" />
 
 ## Business Recommendation
 - Implement **sales forecasting** and prepare a **promotional calendar** to maintain consistent demand throughout the year. This strategy can help more stable monthly sales and improved inventory planning.
