@@ -65,6 +65,13 @@ This is result from Office Supplies Sales Analyst
 <p align="center">
 <img width="456" height="274" alt="image" src="https://github.com/user-attachments/assets/02cc7ebc-cd4c-49df-82fe-0bc1e0de55a1" />
 
+### Customer Segments
+- The Consumer segment generated the highest sales but showed considerable year-to-year fluctuations.
+- The Corporate segment demonstrated more consistent growth, indicating increasing demand from business customers.
+- The Home Office segment contributed the smallest share of sales and exhibited inconsistent performance.
+<p align="center">
+<img width="1127" height="754" alt="Picture2-segment" src="https://github.com/user-attachments/assets/4f9406fa-31ae-4a3c-96f9-7b2a783b3e62" />
+
 ## Business Recommendation
 - Implement **sales forecasting** and prepare a **promotional calendar** to maintain consistent demand throughout the year. This strategy can help more stable monthly sales and improved inventory planning.
 - **Promote lower-performing** products through **discounts**, **product bundling**, or **cross-selling**. This approach can encourage customers to purchase a wider range of products, resulting in a more balanced sales distribution and reduced dependence on a few best-selling items.
