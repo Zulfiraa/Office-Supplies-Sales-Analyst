@@ -57,6 +57,7 @@ This is result from Office Supplies Sales Analyst
 - Although the business maintained positive sales performance, the fluctuations suggest opportunities to improve sales stability through better demand forecasting and strategic promotional planning.
 <p align="center">
 <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/d28693ca-b5f6-437e-9500-ee80eba01e2a" />
+<img width="1480" height="912" alt="Picture4-city" src="https://github.com/user-attachments/assets/06e7644f-7af9-4ad2-a44c-2d6317bf1efe" />
 
 ### Product Performance
 - Sales were concentrated in a limited number of products, with the Top 10 products contributing the majority of total sales.
