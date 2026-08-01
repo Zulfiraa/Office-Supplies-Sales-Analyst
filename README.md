@@ -59,6 +59,11 @@ This is result from Office Supplies Sales Analyst
 <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/d28693ca-b5f6-437e-9500-ee80eba01e2a" />
 
 ### Product Performance
+- Sales were concentrated in a limited number of products, with the Top 10 products contributing the majority of total sales.
+- Storage and Binders category contributes the largest share of sales, while categories such as Envelopes, Labels, and Fasteners contribute much less.
+- This distribution indicates a strong dependence on a few high-performing products and categories.
+<p align="center">
+<img width="456" height="274" alt="image" src="https://github.com/user-attachments/assets/02cc7ebc-cd4c-49df-82fe-0bc1e0de55a1" />
 
 ## Business Recommendation
 - Implement **sales forecasting** and prepare a **promotional calendar** to maintain consistent demand throughout the year. This strategy can help more stable monthly sales and improved inventory planning.
