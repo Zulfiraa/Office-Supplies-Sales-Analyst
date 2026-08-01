@@ -80,6 +80,13 @@ This is result from Office Supplies Sales Analyst
 <img width="1648" height="913" alt="Picture3-map" src="https://github.com/user-attachments/assets/c915ee35-588b-4b55-adcf-1411537a5c36" />
 <img width="1480" height="912" alt="Picture4-city" src="https://github.com/user-attachments/assets/06e7644f-7af9-4ad2-a44c-2d6317bf1efe" />
 
+### Shipping Analysis
+- Standard Class accounted for the majority of customer shipments (approximately 61%), making it the most preferred shipping method.
+- Faster shipping options, including First Class and Same Day, were used by a much smaller proportion of customers.
+<p align="center">
+<img width="894" height="626" alt="Picture5-ship" src="https://github.com/user-attachments/assets/45759660-bad1-4704-8460-79f6a5d1c5a8" />
+
+
 ## Business Recommendation
 - Implement **sales forecasting** and prepare a **promotional calendar** to maintain consistent demand throughout the year. This strategy can help more stable monthly sales and improved inventory planning.
 - **Promote lower-performing** products through **discounts**, **product bundling**, or **cross-selling**. This approach can encourage customers to purchase a wider range of products, resulting in a more balanced sales distribution and reduced dependence on a few best-selling items.
