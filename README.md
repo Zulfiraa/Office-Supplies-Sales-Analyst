@@ -50,6 +50,15 @@ This is result from Office Supplies Sales Analyst
 -  **Product Performance**: The Top 10 Products contribute a significant portion of total sales, while many other products generate relatively low sales.
 -  **Segment Analysis**: The Consumer segment generated the highest sales, particularly in 2019, but experienced considerable fluctuations over the following years. In contrast, the Corporate segment demonstrated more stable growth, indicating increasing demand from business customers. Meanwhile, the Home Office segment showed inconsistent performance with significant changes across the observed period.
 - **Shipping Analysis**: Most customers use Standard Class Shipping representing approximately 61% of all customer shipments. This suggests that customers prioritize cost-effective delivery over speed. Therefore, maintaining the reliability and efficiency of Standard Class should remain a priority.
+## Summary of Insight
+### Sales Trend
+- The company generated $55,774 in total sales, with 1,833 products sold across 240 customers, resulting in $9,039 in total profit.
+- Monthly sales fluctuated throughout the year, with several significant peaks and declines, indicating inconsistent customer demand and potential seasonal purchasing patterns.
+- Although the business maintained positive sales performance, the fluctuations suggest opportunities to improve sales stability through better demand forecasting and strategic promotional planning.
+<img width="246" height="125" alt="image" src="https://github.com/user-attachments/assets/d28693ca-b5f6-437e-9500-ee80eba01e2a" />
+
+### Product Performance
+
 ## Business Recommendation
 - Implement **sales forecasting** and prepare a **promotional calendar** to maintain consistent demand throughout the year. This strategy can help more stable monthly sales and improved inventory planning.
 - **Promote lower-performing** products through **discounts**, **product bundling**, or **cross-selling**. This approach can encourage customers to purchase a wider range of products, resulting in a more balanced sales distribution and reduced dependence on a few best-selling items.
