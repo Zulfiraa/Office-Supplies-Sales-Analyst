@@ -42,7 +42,7 @@ The dataset used in this project including:
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic
 ## Dashboard
 <p align="center">
-  <img width="396" height="250" alt="Dashboard Office Supplies Sales - Excel" src="https://github.com/user-attachments/assets/844ec018-3a3c-411e-8be1-52bbea650c6f" />
+  <img width="456" height="274" alt="Dashboard Office Supplies Sales - Excel" src="https://github.com/user-attachments/assets/844ec018-3a3c-411e-8be1-52bbea650c6f" />
   
 ## Result
 This is result from Office Supplies Sales Analyst
