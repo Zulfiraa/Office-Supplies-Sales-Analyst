@@ -30,7 +30,7 @@ The dataset used in this project including:
 | Category                        | Main product category (Office Supplies, Furniture, Technology). |
 | Sub-Category                    | Product subcategory (e.g., Appliances, Art, Binders, Envelopes, Fasteners, Labels, Paper, Storage, Supplies).            |
 | Product Name                    | Name of the product sold.                                       |
-| Sales                           | Revenue generated from each transaction.                        |
+| Sales                           | Sales generated from each transaction.                        |
 | Quantity                        | Number of units sold.                                           |
 | Discount                        | Discount applied to the transaction.                            |
 | Profit                          | Profit earned from the transaction.                             |
@@ -41,7 +41,9 @@ The dataset used in this project including:
 - Created Pivot tables according to the question asked
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic
 ## Dashboard
-<img width="322" height="176" alt="Dashboard Office Supplies Sales (Excel)" src="https://github.com/user-attachments/assets/ee308864-8bb3-490b-a608-d82654ecb540" />.
+<p align="center">
+<img width="322" height="176" alt="Dashboard Office Supplies Sales (Excel)" src="https://github.com/user-attachments/assets/ee308864-8bb3-490b-a608-d82654ecb540" />
+  
 ## Result
 This is result from Office Supplies Sales Analyst
 - **Sales Trend Analysis** : The monthly sales trend fluctuates throughout the year, with noticeable peaks and declines.The fluctuations may be influenced by seasonality, promotional activities, or changing customer demand.
