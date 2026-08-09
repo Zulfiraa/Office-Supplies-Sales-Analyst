@@ -42,7 +42,7 @@ The dataset used in this project including:
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic
 ## Dashboard
 <p align="center">
-  <img width="456" height="274" alt="Dashboard Office Supplies Sales - Excel" src="https://github.com/user-attachments/assets/844ec018-3a3c-411e-8be1-52bbea650c6f" />
+  <img width="80%"  alt="Dashboard Office Supplies Sales - Excel" src="https://github.com/user-attachments/assets/844ec018-3a3c-411e-8be1-52bbea650c6f" />
   
 ## Results
 This is result from Office Supplies Sales Analyst
@@ -58,35 +58,36 @@ This is result from Office Supplies Sales Analyst
 - Monthly sales fluctuated throughout the year, with several significant peaks and declines, indicating inconsistent customer demand and potential seasonal purchasing patterns.
 - Although the business maintained positive sales performance, the fluctuations suggest opportunities to improve sales stability through better demand forecasting and strategic promotional planning.
 <p align="center">
-<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/d28693ca-b5f6-437e-9500-ee80eba01e2a" />
+<img width="70%" alt="image" src="https://github.com/user-attachments/assets/d28693ca-b5f6-437e-9500-ee80eba01e2a" />
 
 ### Product Performance
 - Sales were concentrated in a limited number of products, with the Top 10 products contributing the majority of total sales.
 - Storage and Binders category contributes the largest share of sales, while categories such as Envelopes, Labels, and Fasteners contribute much less.
 - This distribution indicates a strong dependence on a few high-performing products and categories.
 <p align="center">
-<img width="456" height="274" alt="image" src="https://github.com/user-attachments/assets/02cc7ebc-cd4c-49df-82fe-0bc1e0de55a1" />
+<img width="70%" alt="image" src="https://github.com/user-attachments/assets/02cc7ebc-cd4c-49df-82fe-0bc1e0de55a1" />
 
 ### Customer Segments
 - The Consumer segment generated the highest sales but showed considerable year-to-year fluctuations.
 - The Corporate segment demonstrated more consistent growth, indicating increasing demand from business customers.
 - The Home Office segment contributed the smallest share of sales and exhibited inconsistent performance.
 <p align="center">
-<img width="1127" height="754" alt="Picture2-segment" src="https://github.com/user-attachments/assets/4f9406fa-31ae-4a3c-96f9-7b2a783b3e62" />
+<img width="70%" alt="Picture2-segment" src="https://github.com/user-attachments/assets/4f9406fa-31ae-4a3c-96f9-7b2a783b3e62" />
 
 ### Regional Performance
 - The highest sales were recorded in several states, such as New York, Georgia, and California.
 - Sales were concentrated in major cities such as New York City, Atlanta, and San Francisco, while many other regions contributed comparatively lower sales.
 - The uneven geographic distribution suggests opportunities to expand into underperforming markets.
 <p align="center">
-<img width="1648" height="913" alt="Picture3-map" src="https://github.com/user-attachments/assets/c915ee35-588b-4b55-adcf-1411537a5c36" />
-<img width="1480" height="912" alt="Picture4-city" src="https://github.com/user-attachments/assets/06e7644f-7af9-4ad2-a44c-2d6317bf1efe" />
+<img width="45%"  alt="Picture3-map" src="https://github.com/user-attachments/assets/c915ee35-588b-4b55-adcf-1411537a5c36" />
+<img width="45%" height="912" alt="Picture4-city" src="https://github.com/user-attachments/assets/06e7644f-7af9-4ad2-a44c-2d6317bf1efe" />
+</p>
 
 ### Shipping Analysis
 - Standard Class accounted for the majority of customer shipments (approximately 61%), making it the most preferred shipping method.
 - Faster shipping options, including First Class and Same Day, were used by a much smaller proportion of customers.
 <p align="center">
-<img width="894" height="626" alt="Picture5-ship" src="https://github.com/user-attachments/assets/45759660-bad1-4704-8460-79f6a5d1c5a8" />
+<img width="70%" alt="Picture5-ship" src="https://github.com/user-attachments/assets/45759660-bad1-4704-8460-79f6a5d1c5a8" />
 
 
 ## Business Recommendation
