@@ -44,7 +44,7 @@ The dataset used in this project including:
 <p align="center">
   <img width="456" height="274" alt="Dashboard Office Supplies Sales - Excel" src="https://github.com/user-attachments/assets/844ec018-3a3c-411e-8be1-52bbea650c6f" />
   
-## Result
+## Results
 This is result from Office Supplies Sales Analyst
 - **Sales Trend Analysis** : The monthly sales trend fluctuates throughout the year, with noticeable peaks and declines.The fluctuations may be influenced by seasonality, promotional activities, or changing customer demand.
 - **Regional Performance**: Cities such as New York City, Atlanta, and San Francisco generate the highest sales. And state such as New York, Georgia, and California generate the highest sales
