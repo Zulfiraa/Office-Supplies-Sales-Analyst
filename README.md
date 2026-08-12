@@ -41,9 +41,15 @@ The dataset used in this project including:
 - Created Pivot tables according to the question asked
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic
 ## Dashboard
+**Dashboard Excel**
 <p align="center">
   <img width="80%"  alt="Dashboard Office Supplies Sales - Excel" src="https://github.com/user-attachments/assets/844ec018-3a3c-411e-8be1-52bbea650c6f" />
-  
+
+**Dashboard Tableau**
+<p align="center">
+<img width="80%" alt="Dashboard Office Supplies Sales (Tableau)" src="https://github.com/user-attachments/assets/62d80b3f-134e-462a-a170-721af8754c79" />
+
+
 ## Results
 This is result from Office Supplies Sales Analyst
 - **Sales Trend Analysis** : The monthly sales trend fluctuates throughout the year, with noticeable peaks and declines.The fluctuations may be influenced by seasonality, promotional activities, or changing customer demand.
