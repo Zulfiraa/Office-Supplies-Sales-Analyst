@@ -43,7 +43,8 @@ The dataset used in this project including:
 ## Dashboard
 **Dashboard Excel**
 <p align="center">
-  <img width="80%"  alt="Dashboard Office Supplies Sales - Excel" src="https://github.com/user-attachments/assets/844ec018-3a3c-411e-8be1-52bbea650c6f" />
+<img width="80%" alt="Dashboard Office Supplies Sales (Excel)" src="https://github.com/user-attachments/assets/8f2e0cbf-8ada-46cf-a52b-6591c9af1971" />
+
 
 **Dashboard Tableau**
 <p align="center">
