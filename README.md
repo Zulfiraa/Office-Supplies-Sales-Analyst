@@ -51,14 +51,6 @@ The dataset used in this project including:
 <img width="80%" alt="Dashboard Office Supplies Sales (Tableau)" src="https://github.com/user-attachments/assets/62d80b3f-134e-462a-a170-721af8754c79" />
 
 
-## Results
-This is result from Office Supplies Sales Analyst
-- **Sales Trend Analysis** : The monthly sales trend fluctuates throughout the year, with noticeable peaks and declines.The fluctuations may be influenced by seasonality, promotional activities, or changing customer demand.
-- **Regional Performance**: Cities such as New York City, Atlanta, and San Francisco generate the highest sales. And state such as New York, Georgia, and California generate the highest sales
-- **Best Selling Category Products**: Storage and Binders category contributes the largest share of sales, while categories such as Envelopes, Labels, and Fasteners contribute much less.
--  **Product Performance**: The Top 10 Products contribute a significant portion of total sales, while many other products generate relatively low sales.
--  **Segment Analysis**: The Consumer segment generated the highest sales, particularly in 2019, but experienced considerable fluctuations over the following years. In contrast, the Corporate segment demonstrated more stable growth, indicating increasing demand from business customers. Meanwhile, the Home Office segment showed inconsistent performance with significant changes across the observed period.
-- **Shipping Analysis**: Most customers use Standard Class Shipping representing approximately 61% of all customer shipments. This suggests that customers prioritize cost-effective delivery over speed. Therefore, maintaining the reliability and efficiency of Standard Class should remain a priority.
 ## Summary of Insight
 ### Sales Trend
 - The company generated $55,774 in total sales, with 1,833 products sold across 240 customers, resulting in $9,039 in total profit.
